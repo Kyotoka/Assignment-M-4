@@ -252,6 +252,19 @@ li {
     }
   }
 }
+/* Contact__Section */
+.form__section {
+  max-width: 1000px;
+  margin: auto auto;
+  padding: 100px;
+  background: #fff;
+  border-radius: 8px;
+}
+
+.form__section .btn-primary {
+  margin-top: 1rem;
+}
+
 /* Footer Section */
 footer {
   padding: 20px 0;
